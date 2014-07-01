@@ -1,4 +1,4 @@
-Jekyll-blog
+jekyll_demo
 ===========
 
-Jekyll-blog
+jekyll_demo
